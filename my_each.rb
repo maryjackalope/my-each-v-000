@@ -1,6 +1,6 @@
 def my_each (i) # put argument(s) here
-  i=0 
-  while i <if block_given?
+  
+  if block_given?
   i=0
   
   while i < array.length 
