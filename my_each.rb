@@ -9,7 +9,7 @@ def my_each (collection) # put argument(s) here
     yield array[i]
     i = i + 1
   end #while
-  array
+  collection
    else
     puts "Hey! No block was given!"
 end
